@@ -29,4 +29,4 @@ if __name__ == "__main__":
   database_initial_setup(con)
   print('Database is ready')
   print("Bot is ready")
-  client.run('Nzk5NjM3MTQ0MjEzMjU4Mjgx.YAGeHw.IF6nliVIy9Ca7Q-zndLR7KlB48Y')
+  client.run('')
